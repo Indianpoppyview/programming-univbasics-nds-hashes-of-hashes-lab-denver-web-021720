@@ -37,7 +37,7 @@ sub_category:{
   sub_category:{
     label: "Class",
     sub_category:{
-      lable: "Order",
+      label: "Order",
       sub_category:{
         label: "Family",
         sub_category:{
